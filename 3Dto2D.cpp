@@ -1,6 +1,7 @@
 #include <SDL2/SDL.h>
 #include <iostream>
 #include <cmath>
+//githubの変更テスト文章
 
 //定数定義でマジックナンバーを防止
 constexpr int WIDTH = 800;
